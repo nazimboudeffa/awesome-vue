@@ -6,3 +6,8 @@
 * https://vueschool.io/
 * https://vuejsforge.com/ 
 * https://www.vuemastery.com/
+
+
+# Projet using vuejs
+
+* [flapili.fr](https://flapili.fr) : A french tech blog using vitesse boilerplate
