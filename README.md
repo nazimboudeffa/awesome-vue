@@ -11,3 +11,7 @@
 # Projet using vuejs
 
 * [flapili.fr](https://flapili.fr) : A french tech blog using vitesse boilerplate
+
+# Boilerplates
+
+* https://github.com/antfu/vitesse
