@@ -6,6 +6,7 @@
 * https://vueschool.io/
 * https://vuejsforge.com/ 
 * https://www.vuemastery.com/
+* https://vuepress.vuejs.org/
 
 
 # Projet using vuejs
